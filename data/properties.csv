@@ -1,0 +1,9 @@
+property_id,area,property_type,purchase_price,annual_rent,service_charges,maintenance,vacancy_rate
+1,JVC,Studio,650000,52000,8500,3000,0.05
+2,Arjan,Studio,700000,55000,9000,3200,0.05
+3,Dubai South,Studio,600000,48000,7000,2800,0.06
+4,JVC,1 Bedroom,900000,72000,11000,4000,0.05
+5,Arjan,1 Bedroom,950000,75000,12000,4200,0.05
+6,Business Bay,1 Bedroom,1200000,90000,18000,5000,0.04
+7,Dubai Marina,1 Bedroom,1250000,95000,20000,5500,0.04
+8,Dubai South,1 Bedroom,850000,68000,9500,3800,0.06
